@@ -1,0 +1,10 @@
+id,name,country,url,domain,verification,verified_on
+10230,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,https://www.ntu.edu.sg/,ntu.edu.sg,HTTP 200; title 'Nanyang Technological University - NTU Singapore',2026-09-08
+10235,Technical University of Munich,Germany,https://www.tum.de/,tum.de,HTTP 200; title 'The Entrepreneurial University - TUM',2026-09-08
+10226,ETH Zurich (Swiss Federal Institute of Technology),Switzerland,https://ethz.ch/en.html,ethz.ch,HTTP 200; title 'ETH Zurich - Homepage',2026-09-08
+10291,King Abdul Aziz University (KAU),Saudi Arabia,https://kau.edu.sa/en,kau.edu.sa,HTTP 200; title 'Home' - institution confirmed by page content as King Abdulaziz University,2026-09-08
+10257,"Trinity College Dublin, The University of Dublin",Ireland,https://www.tcd.ie/,tcd.ie,HTTP 200; title 'Trinity College Dublin',2026-09-08
+10290,Ghent University,Belgium,https://www.ugent.be/en,ugent.be,HTTP 200; title 'Ghent University',2026-09-08
+10302,"Queen's University, Ontario",Canada,https://www.queensu.ca/,queensu.ca,HTTP 200; title 'Queen's University Canada',2026-09-08
+10255,Sorbonne University (merged from Paris IV & UPMC),France,https://www.sorbonne-universite.fr/en,sorbonne-universite.fr,HTTP 200; title 'Sorbonne Universite',2026-09-08
+10315,Indian Institute of Science (IISc) Bangalore,India,https://www.iisc.ac.in/,iisc.ac.in,HTTP 200; title 'Indian Institute of Science',2026-09-08
