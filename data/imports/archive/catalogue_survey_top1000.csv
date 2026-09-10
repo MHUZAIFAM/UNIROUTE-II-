@@ -998,3 +998,4 @@ id,name,country,rank,base_url,status,catalogue_url,detail
 5766,Yeungnam University,South Korea,901-950,http://www.yeungnam.ac.kr,ok,https://www.yeungnam.ac.kr/study/index.do,
 6839,Saint Louis University,Philippines,951-1000,http://www.slu.edu.ph,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
 3773,Athens University of Economics and Business,Greece,951-1000,https://www.aueb.gr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7530,King Faisal University,Saudi Arabia,648,http://www.kfu.edu.sa,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
