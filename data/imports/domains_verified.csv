@@ -8,3 +8,200 @@ id,name,country,url,domain,verification,verified_on
 10302,"Queen's University, Ontario",Canada,https://www.queensu.ca/,queensu.ca,HTTP 200; title 'Queen's University Canada',2026-09-08
 10255,Sorbonne University (merged from Paris IV & UPMC),France,https://www.sorbonne-universite.fr/en,sorbonne-universite.fr,HTTP 200; title 'Sorbonne Universite',2026-09-08
 10315,Indian Institute of Science (IISc) Bangalore,India,https://www.iisc.ac.in/,iisc.ac.in,HTTP 200; title 'Indian Institute of Science',2026-09-08
+3033,Alexandria University,,,eng.alexu.edu.eg,batch2 verify: unreachable,2026-09-08
+10515,Asia University Taiwan,,,web.asia.edu.tw,batch2 verify: unreachable,2026-09-08
+10427,China Medical University,,,cmu.edu.tw,batch2 verify: unreachable,2026-09-08
+10422,Iran University of Science and Technology,,,iust.ac.ir,batch2 verify: unreachable,2026-09-08
+10567,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",,,kpi.ua,batch2 verify: unreachable,2026-09-08
+10366,RUDN University,,,rudn.ru,batch2 verify: unreachable,2026-09-08
+10533,Shahid Beheshti University (SBU),,,en.sbu.ac.ir,batch2 verify: unreachable,2026-09-08
+3851,The Education University of Hong Kong,,,eduhk.hk,batch2 verify: unreachable,2026-09-08
+10514,Universidad Panamericana (UP),,,up.edu.mx,batch2 verify: unreachable,2026-09-08
+10384,Universitat Politècnica de Catalunya,,,upc.edu,batch2 verify: unreachable,2026-09-08
+9928,University of Barcelona,,,web.ub.edu,batch2 verify: unreachable,2026-09-08
+10499,University of Brawijaya,,,ub.ac.id,batch2 verify: unreachable,2026-09-08
+10456,University of Tabriz,,,tabrizu.ac.ir,batch2 verify: unreachable,2026-09-08
+10460,American University of Ras Al Khaimah ( AURAK ),,,aurak.ac.ae,batch2 verify: review,2026-09-08
+10424,Central Queensland University Australia (CQUniversity),,,cqu.edu.au,batch2 verify: review,2026-09-08
+10280,Humboldt-Universität zu Berlin,,,hu-berlin.de,batch2 verify: review,2026-09-08
+10564,IIT Gandhinagar,,,iitgn.ac.in,batch2 verify: review,2026-09-08
+10404,James Cook University,,,jcu.edu.au,batch2 verify: review,2026-09-08
+545,Johns Hopkins University,,,jhu.edu,batch2 verify: review,2026-09-08
+10493,"Kingston University, London",,,kingston.ac.uk,batch2 verify: review,2026-09-08
+10486,MGIMO University,,,english.mgimo.ru,batch2 verify: review,2026-09-08
+10371,National University of Sciences And Technology (NUST) Islamabad,,,nust.edu.pk,batch2 verify: review,2026-09-08
+10545,Rovira i Virgili University,,,urv.cat,batch2 verify: review,2026-09-08
+10351,Rutgers University  New Brunswick,,,newbrunswick.rutgers.edu,batch2 verify: review,2026-09-08
+10367,Sciences Po Paris,,,sciencespo.fr,batch2 verify: review,2026-09-08
+10235,Technical University of Munich,,,tum.de,batch2 verify: review,2026-09-08
+10232,The University of Melbourne,,,unimelb.edu.au,batch2 verify: review,2026-09-08
+10228,UCL (University College London),,,ucl.ac.uk,batch2 verify: review,2026-09-08
+10319,University of Lisbon,,,ulisboa.pt,batch2 verify: review,2026-09-08
+10377,University of Luxembourg,,,uni.lu,batch2 verify: review,2026-09-08
+10548,University of Maynooth,,,maynoothuniversity.ie,batch2 verify: review,2026-09-08
+10439,University of Milano-Bicocca,,,en.unimib.it,batch2 verify: review,2026-09-08
+10399,Università  degli Studi di Pavia,,,portale.unipv.it,batch2 verify: review,2026-09-08
+10454,Universität Jena,,,uni-jena.de,batch2 verify: review,2026-09-08
+10234,École Polytechnique Fédérale de Lausanne,,,epfl.ch,batch2 verify: review,2026-09-08
+10559,AGH University of Krakow,,,agh.edu.pl,batch2 verify: ok,2026-09-08
+10531,Adam Mickiewicz University,,,amu.edu.pl,batch2 verify: ok,2026-09-08
+10560,Ahlia University,,,ahlia.edu.bh,batch2 verify: ok,2026-09-08
+10401,Aix-Marseille University,,,univ-amu.fr,batch2 verify: ok,2026-09-08
+10445,Al Ain University,,,aau.ac.ae,batch2 verify: ok,2026-09-08
+10284,Alma Mater Studiorum - University of Bologna,,,unibo.it,batch2 verify: ok,2026-09-08
+1840,American University,,,anuhs.edu.ba,batch2 verify: ok,2026-09-08
+10507,Ankara Üniversitesi,,,ankara.edu.tr,batch2 verify: ok,2026-09-08
+10554,Applied Science Private University - Jordan,,,asu.edu.jo,batch2 verify: ok,2026-09-08
+10471,Applied Science University - Bahrain,,,asu.edu.bh,batch2 verify: ok,2026-09-08
+10462,Asia Pacific University of Technology and Innovation (APU) Malaysia,,,apu.edu.my,batch2 verify: ok,2026-09-08
+10525,Auezov South Kazakhstan State University (SKSU),,,auezov.edu.kz,batch2 verify: ok,2026-09-08
+10536,Babes-Bolyai University,,,ubbcluj.ro,batch2 verify: ok,2026-09-08
+10330,Bandung Institute of Technology (ITB),,,itb.ac.id,batch2 verify: ok,2026-09-08
+10447,Bangor University,,,bangor.ac.uk,batch2 verify: ok,2026-09-08
+10381,Beihang University (former BUAA),,,ev.buaa.edu.cn,batch2 verify: ok,2026-09-08
+10370,Bogazici University,,,bogazici.edu.tr,batch2 verify: ok,2026-09-08
+10378,Brunel University of London,,,brunel.ac.uk,batch2 verify: ok,2026-09-08
+10494,COMSATS University Islamabad,,,islamabad.comsats.edu.pk,batch2 verify: ok,2026-09-08
+10492,Ca' Foscari University of Venice,,,unive.it,batch2 verify: ok,2026-09-08
+10465,Canadian University of Dubai,,,cud.ac.ae,batch2 verify: ok,2026-09-08
+10333,Charles University,,,cuni.cz,batch2 verify: ok,2026-09-08
+10489,China University of Mining and Technology,,,global.cumt.edu.cn,batch2 verify: ok,2026-09-08
+10502,China University of Petroleum,,,cup.edu.cn,batch2 verify: ok,2026-09-08
+10474,Christian-Albrechts-Universität zu Kiel,,,uni-kiel.de,batch2 verify: ok,2026-09-08
+10394,Czech Technical University In Prague,,,cvut.cz,batch2 verify: ok,2026-09-08
+10537,Czech University of Life Sciences in Prague,,,czu.cz,batch2 verify: ok,2026-09-08
+10561,De Montfort University,,,dmu.ac.uk,batch2 verify: ok,2026-09-08
+10477,Diponegoro University,,,undip.ac.id,batch2 verify: ok,2026-09-08
+10562,Donghua University,,,english.dhu.edu.cn,batch2 verify: ok,2026-09-08
+10226,ETH Zurich (Swiss Federal Institute of Technology),,,ethz.ch,batch2 verify: ok,2026-09-08
+10380,Flinders University,,,flinders.edu.au,batch2 verify: ok,2026-09-08
+10290,Ghent University,,,ugent.be,batch2 verify: ok,2026-09-08
+10349,Goethe Universität Frankfurt am Main,,,uni-frankfurt.de,batch2 verify: ok,2026-09-08
+10498,HUFS - Hankuk (Korea) University of Foreign Studies,,,international.hufs.ac.kr,batch2 verify: ok,2026-09-08
+10429,INTI International University,,,newinti.edu.my,batch2 verify: ok,2026-09-08
+10387,IPB University (aka Bogor Agricultural University),,,ipb.ac.id,batch2 verify: ok,2026-09-08
+10315,Indian Institute of Science (IISc) Bangalore,,,iisc.ac.in,batch2 verify: ok,2026-09-08
+10448,Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi),,,iitbhu.ac.in,batch2 verify: ok,2026-09-08
+10241,Institut Polytechnique de Paris,,,ip-paris.fr,batch2 verify: ok,2026-09-08
+10472,International Islamic University Malaysia (IIUM),,,iium.edu.my,batch2 verify: ok,2026-09-08
+10345,Jagiellonian University,,,en.uj.edu.pl,batch2 verify: ok,2026-09-08
+10539,"Jamia Millia Islamia, New Delhi",,,jmi.ac.in,batch2 verify: ok,2026-09-08
+10512,Jeonbuk National University (formerly known as Chonbuk National University),,,jbnu.ac.kr,batch2 verify: ok,2026-09-08
+10395,Julius-Maximilians-Universität Würzburg,,,uni-wuerzburg.de,batch2 verify: ok,2026-09-08
+10541,Kaohsiung Medical University,,,kmu.edu.tw,batch2 verify: ok,2026-09-08
+10496,Karl-Franzens-Universität Graz,,,uni-graz.at,batch2 verify: ok,2026-09-08
+10263,Karlsruhe Institute of Technology (KIT),,,kit.edu,batch2 verify: ok,2026-09-08
+10479,Kazakh National Pedagogical University Abai,,,abai.university,batch2 verify: ok,2026-09-08
+9923,Keio University,,,keio.ac.jp,batch2 verify: ok,2026-09-08
+10295,Khalifa University of Science and Technology,,,ku.ac.ae,batch2 verify: ok,2026-09-08
+10540,Khoja Akhmet Yassawi International Kazakh-Turkish University,,,ayu.edu.kz,batch2 verify: ok,2026-09-08
+10291,King Abdul Aziz University (KAU),,,kau.edu.sa,batch2 verify: ok,2026-09-08
+10252,King Fahd University of Petroleum & Minerals,,,kfupm.edu.sa,batch2 verify: ok,2026-09-08
+10436,King Khalid University,,,kku.edu.sa,batch2 verify: ok,2026-09-08
+10238,King's College London (KCL),,,kcl.ac.uk,batch2 verify: ok,2026-09-08
+10350,Koc University,,,ku.edu.tr,batch2 verify: ok,2026-09-08
+5670,Kyungpook National University,,,en.knu.ac.kr,batch2 verify: ok,2026-09-08
+10385,Lappeenranta-Lahti University of Technology LUT,,,lut.fi,batch2 verify: ok,2026-09-08
+10403,Leibniz Universität Hannover,,,uni-hannover.de,batch2 verify: ok,2026-09-08
+10483,Libera Universita' di Bolzano,,,unibz.it,batch2 verify: ok,2026-09-08
+10481,"Lincoln University College, Malaysia",,,lincoln.edu.my,batch2 verify: ok,2026-09-08
+10513,"Lingnan University, Hong Kong",,,ln.edu.hk,batch2 verify: ok,2026-09-08
+10247,London School of Economics and Political Science (LSE),,,lse.ac.uk,batch2 verify: ok,2026-09-08
+10463,Management and Science University - MSU Malaysia,,,msu.edu.my,batch2 verify: ok,2026-09-08
+10566,Middlesex University,,,mdx.ac.uk,batch2 verify: ok,2026-09-08
+2522,Nankai University,,,en.nankai.edu.cn,batch2 verify: ok,2026-09-08
+10230,"Nanyang Technological University, Singapore (NTU Singapore)",,,ntu.edu.sg,batch2 verify: ok,2026-09-08
+10308,National Cheng Kung University (NCKU),,,web.ncku.edu.tw,batch2 verify: ok,2026-09-08
+10480,National Chung Hsing University,,,nchu.edu.tw,batch2 verify: ok,2026-09-08
+10527,National Institute of Technology Tiruchirappalli,,,nitt.edu,batch2 verify: ok,2026-09-08
+10461,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),,,eng.mephi.ru,batch2 verify: ok,2026-09-08
+10405,"National Research University Higher School of Economics (HSE, Moscow)",,,hse.ru,batch2 verify: ok,2026-09-08
+10249,National Taiwan University (NTU),,,ntu.edu.tw,batch2 verify: ok,2026-09-08
+10357,National Taiwan University of Science and Technology (Taiwan Tech),,,ntust.edu.tw,batch2 verify: ok,2026-09-08
+10294,National Tsing Hua University,,,nthu-en.site.nthu.edu.tw,batch2 verify: ok,2026-09-08
+10522,National University of Science and Technology MISiS,,,en.misis.ru,batch2 verify: ok,2026-09-08
+10382,National and Kapodistrian University of Athens,,,en.uoa.gr,batch2 verify: ok,2026-09-08
+10441,Northumbria University at Newcastle,,,northumbria.ac.uk,batch2 verify: ok,2026-09-08
+10568,Northwest Agriculture and Forestry University,,,en.nwsuaf.edu.cn,batch2 verify: ok,2026-09-08
+10425,Northwestern Polytechnical University,,,en.nwpu.edu.cn,batch2 verify: ok,2026-09-08
+10237,PSL University,,,psl.eu,batch2 verify: ok,2026-09-08
+10497,Palacký University in Olomouc,,,upol.cz,batch2 verify: ok,2026-09-08
+10487,Paris Lodron University of Salzburg,,,plus.ac.at,batch2 verify: ok,2026-09-08
+10468,Peter the Great St.Petersburg Polytechnic University,,,english.spbstu.ru,batch2 verify: ok,2026-09-08
+10544,Philipps-Universität Marburg,,,uni-marburg.de,batch2 verify: ok,2026-09-08
+10570,Politecnico di Bari,,,poliba.it,batch2 verify: ok,2026-09-08
+10264,Politecnico di Milano,,,polimi.it,batch2 verify: ok,2026-09-08
+10325,Politecnico di Torino,,,polito.it,batch2 verify: ok,2026-09-08
+10432,Pontificia Universidad Católica Argentina Santa María de los Buenos Aires - UCA,,,uca.edu.ar,batch2 verify: ok,2026-09-08
+10557,Pontificia Universidad Católica de Valparaíso,,,pucv.cl,batch2 verify: ok,2026-09-08
+10523,Prince Sattam Bin Abdulaziz University,,,psau.edu.sa,batch2 verify: ok,2026-09-08
+10528,Princess Nourah bint Abdulrahman University,,,pnu.edu.sa,batch2 verify: ok,2026-09-08
+10302,"Queen's University, Ontario",,,queensu.ca,batch2 verify: ok,2026-09-08
+10276,RMIT University,,,rmit.edu.au,batch2 verify: ok,2026-09-08
+10337,Radboud University Nijmegen,,,ru.nl,batch2 verify: ok,2026-09-08
+10546,Rutgers University - Newark,,,newark.rutgers.edu,batch2 verify: ok,2026-09-08
+10430,SOAS University of London,,,soas.ac.uk,batch2 verify: ok,2026-09-08
+10475,Saint Joseph University of Beirut (USJ),,,usj.edu.lb,batch2 verify: ok,2026-09-08
+10372,Saint Petersburg State University,,,english.spbu.ru,batch2 verify: ok,2026-09-08
+10278,Sapienza University of Rome,,,uniroma1.it,batch2 verify: ok,2026-09-08
+10352,Satbayev University (previously Kazakh Technical University named after K.I. Satpaev),,,satbayev.university,batch2 verify: ok,2026-09-08
+10450,Savitribai Phule Pune University,,,unipune.ac.in,batch2 verify: ok,2026-09-08
+10426,Shoolini University of Biotechnology and Management Sciences,,,shooliniuniversity.com,batch2 verify: ok,2026-09-08
+10255,Sorbonne University (merged from Paris IV & UPMC),,,sorbonne-universite.fr,batch2 verify: ok,2026-09-08
+10383,"Southeast University, China",,,seu.edu.cn,batch2 verify: ok,2026-09-08
+10356,Southern University of Science and Technology (SUSTech),,,sustech.edu.cn,batch2 verify: ok,2026-09-08
+10409,Stony Brook University,,,stonybrook.edu,batch2 verify: ok,2026-09-08
+10464,Taipei Medical University,,,eng.tmu.edu.tw,batch2 verify: ok,2026-09-08
+10414,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU),,,tiiame.uz,batch2 verify: ok,2026-09-08
+10518,Technische Universität Braunschweig,,,tu-braunschweig.de,batch2 verify: ok,2026-09-08
+10571,"The New School, New York City and Paris",,,newschool.edu,batch2 verify: ok,2026-09-08
+10501,Ton Duc Thang University,,,tdtu.edu.vn,batch2 verify: ok,2026-09-08
+10257,"Trinity College Dublin, The University of Dublin",,,tcd.ie,batch2 verify: ok,2026-09-08
+10524,UWE Bristol (University of the West of England),,,uwe.ac.uk,batch2 verify: ok,2026-09-08
+10433,Universidad Austral - Argentina,,,austral.edu.ar,batch2 verify: ok,2026-09-08
+10530,Universidad Central de Venezuela - UCV,,,ucv.ve,batch2 verify: ok,2026-09-08
+10311,Universidad de Los Andes Colombia,,,uniandes.edu.co,batch2 verify: ok,2026-09-08
+10418,Universidad de Santiago de Chile - USACH,,,usach.cl,batch2 verify: ok,2026-09-08
+10551,"Universidade Católica Portuguesa, UCP",,,ucp.pt,batch2 verify: ok,2026-09-08
+10407,"Universidade Estadual Paulista ""Júlio de Mesquita Filho"" (UNESP)",,,repositorio.unesp.br,batch2 verify: ok,2026-09-08
+10368,Universiti Brunei Darussalam (UBD),,,ubd.edu.bn,batch2 verify: ok,2026-09-08
+10469,Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),,,umpsa.edu.my,batch2 verify: ok,2026-09-08
+10455,Universiti Teknologi Brunei,,,utb.edu.bn,batch2 verify: ok,2026-09-08
+10438,Universiti Teknologi MARA - UiTM,,,uitm.edu.my,batch2 verify: ok,2026-09-08
+10328,Universiti Teknologi Petronas (UTP),,,utp.edu.my,batch2 verify: ok,2026-09-08
+10393,University at Buffalo SUNY,,,buffalo.edu,batch2 verify: ok,2026-09-08
+10338,University of Antwerp,,,uantwerpen.be,batch2 verify: ok,2026-09-08
+10482,"University of Chemistry and Technology, Prague",,,vscht.cz,batch2 verify: ok,2026-09-08
+10364,University of Chinese Academy of Sciences (UCAS),,,english.ucas.ac.cn,batch2 verify: ok,2026-09-08
+10466,University of Eastern Finland,,,uef.fi,batch2 verify: ok,2026-09-08
+10339,University of Galway / Ollscoil na Gaillimhe,,,universityofgalway.ie,batch2 verify: ok,2026-09-08
+10307,University of Gothenburg,,,gu.se,batch2 verify: ok,2026-09-08
+10386,University of Kent,,,kent.ac.uk,batch2 verify: ok,2026-09-08
+10451,University of Minho,,,uminho.pt,batch2 verify: ok,2026-09-08
+10511,"University of Missouri, Columbia",,,missouri.edu,batch2 verify: ok,2026-09-08
+10552,University of Mons,,,web.umons.ac.be,batch2 verify: ok,2026-09-08
+10360,University of Münster,,,uni-muenster.de,batch2 verify: ok,2026-09-08
+10322,University of Padova,,,unipd.it,batch2 verify: ok,2026-09-08
+10324,University of Porto,,,up.pt,batch2 verify: ok,2026-09-08
+10346,University of Southern Denmark,,,sdu.dk,batch2 verify: ok,2026-09-08
+10485,"University of Tromso, The Arctic University of Norway",,,en.uit.no,batch2 verify: ok,2026-09-08
+10411,Università Vita-Salute San Raffaele,,,unisr.it,batch2 verify: ok,2026-09-08
+10362,Università degli Studi di Roma - Tor Vergata,,,web.uniroma2.it,batch2 verify: ok,2026-09-08
+10320,Universität Erlangen-Nürnberg,,,fau.eu,batch2 verify: ok,2026-09-08
+10306,Universität Freiburg,,,uni-freiburg.de,batch2 verify: ok,2026-09-08
+10335,Universität zu Köln,,,uni-koeln.de,batch2 verify: ok,2026-09-08
+10303,Université Catholique de Louvain (UCL),,,uclouvain.be,batch2 verify: ok,2026-09-08
+10458,Université Claude Bernard Lyon 1,,,univ-lyon1.fr,batch2 verify: ok,2026-09-08
+10503,Université Côte dAzur,,,univ-cotedazur.eu,batch2 verify: ok,2026-09-08
+10331,Université Paris 1 Panthéon-Sorbonne,,,pantheonsorbonne.fr,batch2 verify: ok,2026-09-08
+10343,Université Paris Cité,,,u-paris.fr,batch2 verify: ok,2026-09-08
+10459,Université Paul Sabatier Toulouse III,,,utoulouse.fr,batch2 verify: ok,2026-09-08
+10421,Université de Bordeaux,,,u-bordeaux.fr,batch2 verify: ok,2026-09-08
+10490,Université de Lille,,,univ-lille.fr,batch2 verify: ok,2026-09-08
+10520,Université de Rennes 1,,,univ-rennes.fr,batch2 verify: ok,2026-09-08
+10553,V.N. Karazin Kharkiv National University,,,karazin.ua,batch2 verify: ok,2026-09-08
+10504,"Vellore Institute of Technology (VIT), Vellore, India",,,vit.ac.in,batch2 verify: ok,2026-09-08
+10363,Virginia Polytechnic Institute (Virginia Tech),,,vt.edu,batch2 verify: ok,2026-09-08
+10289,Wageningen University & Research,,,wur.nl,batch2 verify: ok,2026-09-08
+5408,Waseda University,,,waseda.jp,batch2 verify: ok,2026-09-08
+10292,Washington University in St. Louis,,,washu.edu,batch2 verify: ok,2026-09-08

@@ -1,0 +1,203 @@
+id,name,country,url,verdict,http,final_domain,title,note
+10453,Chandigarh University,India,INVALID-NOT-A-URL,invalid,,,,cell is not a URL
+10508,Kazakh National Agrarian University,Kazakhstan,INVALID-NOT-A-URL,invalid,,,,cell is not a URL
+10509,Universidad de Alcalá,Spain,INVALID-NOT-A-URL,invalid,,,,cell is not a URL
+10391,Università  Cattolica del Sacro Cuore,Italy,INVALID-NOT-A-URL,invalid,,,,cell is not a URL
+3033,Alexandria University,Egypt,https://eng.alexu.edu.eg/index.php/en/,unreachable,,,,URLError
+10515,Asia University Taiwan,Taiwan,https://web.asia.edu.tw/,unreachable,,,,URLError
+10427,China Medical University,Taiwan,https://www.cmu.edu.cn/e/,unreachable,,,,URLError
+10422,Iran University of Science and Technology,Iran (Islamic Republic of),https://www.iust.ac.ir/en,unreachable,,,,URLError
+10567,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,https://kpi.ua/en,unreachable,,,,URLError
+10366,RUDN University,Russia,https://www.rudn.ru/en,unreachable,404,rudn.ru,,HTTP 404
+10533,Shahid Beheshti University (SBU),Iran (Islamic Republic of),https://en.sbu.ac.ir/,unreachable,,,,URLError
+3851,The Education University of Hong Kong,Hong Kong,https://www.eduhk.hk/en/,unreachable,,,,URLError
+10514,Universidad Panamericana (UP),Mexico,https://www.up.edu.mx/,unreachable,,,,URLError
+10384,Universitat Politècnica de Catalunya,Spain,https://www.upc.edu/en,unreachable,,,,URLError
+9928,University of Barcelona,Spain,https://web.ub.edu/en/,unreachable,504,ub.edu,,HTTP 504
+10499,University of Brawijaya,Indonesia,https://www.ub.ac.id/en/,unreachable,,,,DNS does not resolve
+10456,University of Tabriz,Iran (Islamic Republic of),https://tabrizu.ac.ir/en,unreachable,,,,URLError
+10460,American University of Ras Al Khaimah ( AURAK ),United Arab Emirates,https://aurak.ac.ae/,review,403,aurak.ac.ae,403 - Forbidden,page does not mention the university name
+10424,Central Queensland University Australia (CQUniversity),Australia,https://www.cqu.edu.au/,review,403,cqu.edu.au,Just a moment...,page does not mention the university name
+10280,Humboldt-Universität zu Berlin,Germany,https://www.hu-berlin.de/en,review,200,hu-berlin.de,Making sure you&#39;re not a bot!,page does not mention the university name
+10564,IIT Gandhinagar,India,https://iitgn.ac.in/,review,403,iitgn.ac.in,Just a moment...,page does not mention the university name
+10404,James Cook University,Australia,https://www.jcu.edu.au/,review,403,jcu.edu.au,Just a moment...,page does not mention the university name
+545,Johns Hopkins University,United States,https://www.jhu.edu/,review,403,jhu.edu,Attention Required! | Cloudflare,page does not mention the university name
+10493,"Kingston University, London",United Kingdom,https://www.kingston.ac.uk/,review,403,kingston.ac.uk,Just a moment...,page does not mention the university name
+10486,MGIMO University,Russia,https://english.mgimo.ru/,review,200,mgimo.ru,,page does not mention the university name
+10371,National University of Sciences And Technology (NUST) Islamabad,Pakistan,https://nust.edu.pk/,review,403,nust.edu.pk,Just a moment...,page does not mention the university name
+10545,Rovira i Virgili University,Spain,https://www.urv.cat/en/,review,200,urv.cat,Universitat Rovira i Virgili | The public university of Tarragona,"page names: rovira, virgili | country mismatch: Spain but .cat"
+10351,Rutgers University  New Brunswick,United States,https://newbrunswick.rutgers.edu/,review,403,rutgers.edu,Just a moment...,page does not mention the university name
+10367,Sciences Po Paris,France,https://www.sciencespo.fr/en/,review,200,sciencespo.fr,,page does not mention the university name
+10235,Technical University of Munich,Germany,https://www.tum.de/,review,200,tum.de,The Entrepreneurial University - TUM,page does not mention the university name
+10232,The University of Melbourne,Australia,https://www.unimelb.edu.au/,review,403,unimelb.edu.au,Just a moment...,page does not mention the university name
+10228,UCL (University College London),United Kingdom,https://www.ucl.ac.uk/,review,403,ucl.ac.uk,Just a moment...,page does not mention the university name
+10319,University of Lisbon,Portugal,https://www.ulisboa.pt/en,review,403,ulisboa.pt,,page does not mention the university name
+10377,University of Luxembourg,Luxembourg,https://www.uni.lu/en/,review,202,uni.lu,,page does not mention the university name
+10548,University of Maynooth,Ireland,https://www.maynoothuniversity.ie/,review,403,maynoothuniversity.ie,Attention Required! | Cloudflare,page does not mention the university name
+10439,University of Milano-Bicocca,Italy,https://en.unimib.it/node/2587,review,403,unimib.it,Just a moment...,page does not mention the university name
+10399,Università  degli Studi di Pavia,Italy,https://portale.unipv.it/it,review,403,unipv.it,Just a moment...,page does not mention the university name
+10454,Universität Jena,Germany,https://www.uni-jena.de/en,review,200,uni-jena.de,,page does not mention the university name
+7904,Victoria University,Switzerland,https://www.vu.edu.au/,review,200,vu.edu.au,VU Homepage | Victoria University,page names: victoria | country mismatch: Switzerland but .au
+10234,École Polytechnique Fédérale de Lausanne,Switzerland,https://www.epfl.ch/en/,review,200,epfl.ch,EPFL,page does not mention the university name
+10559,AGH University of Krakow,Poland,https://www.agh.edu.pl/en/,ok,200,agh.edu.pl,Main Site,"page names: agh, krakow"
+10531,Adam Mickiewicz University,Poland,https://amu.edu.pl/en,ok,200,amu.edu.pl,"Adam Mickiewicz University, Poznań, Poland","page names: adam, mickiewicz"
+10560,Ahlia University,Bahrain,https://www.ahlia.edu.bh/,ok,200,ahlia.edu.bh,Ahlia University - Bahrain - Ahlia University,page names: ahlia
+10401,Aix-Marseille University,France,https://www.univ-amu.fr/en,ok,200,univ-amu.fr,Accueil | Aix Marseille Université - amU,"page names: aix, marseille"
+10445,Al Ain University,United Arab Emirates,https://www.aau.ac.ae/en/,ok,200,aau.ac.ae,Al Ain University(AAU) - One of the Best Universities in UAE,page names: ain
+10284,Alma Mater Studiorum - University of Bologna,Italy,https://www.unibo.it/en,ok,200,unibo.it,University of Bologna,page names: bologna
+1840,American University,Bosnia and Herzegovina,https://anuhs.edu.ba/,ok,200,anuhs.edu.ba,Home - American Northwest University of Health Science and Technology/Američki Sjevero-zapad Univerzitet za Zd,page names: american
+10507,Ankara Üniversitesi,Türkiye,https://www.ankara.edu.tr/,ok,200,ankara.edu.tr,Ankara Üniversitesi,"page names: ankara, universitesi"
+10554,Applied Science Private University - Jordan,Jordan,http://www.asu.edu.jo/en/Pages/default.aspx,ok,200,asu.edu.jo,Applied Science Private University - Home Page,"page names: applied, jordan, private"
+10471,Applied Science University - Bahrain,Bahrain,https://www.asu.edu.bh/,ok,200,asu.edu.bh,Applied Science University &#8211; Education WordPress Theme,page names: applied
+10462,Asia Pacific University of Technology and Innovation (APU) Malaysia,Malaysia,https://www.apu.edu.my/,ok,200,apu.edu.my,Asia Pacific University (APU) | Top 2% Universities Worldwide,"page names: apu, asia, innovation, malaysia"
+10525,Auezov South Kazakhstan State University (SKSU),Kazakhstan,https://auezov.edu.kz/eng,ok,200,auezov.edu.kz,Home,"page names: auezov, kazakhstan, sksu, south"
+10536,Babes-Bolyai University,Romania,https://www.ubbcluj.ro/en/,ok,200,ubbcluj.ro,"BBU, Babeș-Bolyai University","page names: babes, bolyai"
+10330,Bandung Institute of Technology (ITB),Indonesia,https://itb.ac.id/,ok,200,itb.ac.id,Institut Teknologi Bandung,"page names: bandung, itb"
+10447,Bangor University,United Kingdom,https://www.bangor.ac.uk/,ok,200,bangor.ac.uk,Bangor University,page names: bangor
+10381,Beihang University (former BUAA),China,https://ev.buaa.edu.cn/,ok,200,buaa.edu.cn,Beihang University,page names: beihang
+10370,Bogazici University,Türkiye,https://bogazici.edu.tr/en,ok,200,bogazici.edu.tr,Boğaziçi University,page names: bogazici
+10378,Brunel University of London,United Kingdom,https://www.brunel.ac.uk/,ok,200,brunel.ac.uk,Brunel University of London,"page names: brunel, london"
+10494,COMSATS University Islamabad,Pakistan,https://islamabad.comsats.edu.pk/,ok,200,comsats.edu.pk,COMSATS University Islamabad,"page names: comsats, islamabad"
+10492,Ca' Foscari University of Venice,Italy,https://www.unive.it/web/en/497/home,ok,200,unive.it,Home: Ca' Foscari University of Venice,"page names: foscari, venice"
+10465,Canadian University of Dubai,United Arab Emirates,https://www.cud.ac.ae/,ok,200,cud.ac.ae,Canadian University Dubai | Your portal to Canadian education,"page names: canadian, dubai"
+10333,Charles University,Czechia,https://cuni.cz/uken-1.html,ok,200,cuni.cz,Charles University,page names: charles
+10489,China University of Mining and Technology,China,https://global.cumt.edu.cn/,ok,200,cumt.edu.cn,CUMTGLOBAL,"page names: china, mining"
+10502,China University of Petroleum,China,https://www.cup.edu.cn/english/,ok,200,cup.edu.cn,China University of Petroleum-Beijing,"page names: china, petroleum"
+10474,Christian-Albrechts-Universität zu Kiel,Germany,https://www.uni-kiel.de/de/,ok,200,uni-kiel.de,Christian-Albrechts-Universität zu Kiel (CAU),"page names: albrechts, christian, kiel"
+10394,Czech Technical University In Prague,Czechia,https://www.cvut.cz/en,ok,200,cvut.cz,Home - Public web - Czech technical university in Prague,"page names: czech, prague"
+10537,Czech University of Life Sciences in Prague,Czechia,https://www.czu.cz/en,ok,200,czu.cz,Czech University of Life Sciences Prague,"page names: czech, life, prague"
+10561,De Montfort University,United Kingdom,https://www.dmu.ac.uk/home.aspx,ok,200,dmu.ac.uk,De Montfort University,page names: montfort
+10477,Diponegoro University,Indonesia,https://undip.ac.id/language/en/home,ok,200,undip.ac.id,Home - Universitas Diponegoro,page names: diponegoro
+10562,Donghua University,China,https://english.dhu.edu.cn/,ok,200,dhu.edu.cn,Donghua University English Website,page names: donghua
+10226,ETH Zurich (Swiss Federal Institute of Technology),Switzerland,https://ethz.ch/en.html,ok,200,ethz.ch,ETH Zurich - Homepage | ETH Zurich,"page names: eth, zurich"
+10380,Flinders University,Australia,https://www.flinders.edu.au/,ok,200,flinders.edu.au,"Flinders University - Adelaide, South Australia - Flinders University",page names: flinders
+10290,Ghent University,Belgium,https://www.ugent.be/en,ok,200,ugent.be,Ghent University,page names: ghent
+10349,Goethe Universität Frankfurt am Main,Germany,https://www.uni-frankfurt.de/en,ok,200,uni-frankfurt.de,"Goethe University Frankfurt – Research, Study, Transfer","page names: frankfurt, goethe, main"
+10498,HUFS - Hankuk (Korea) University of Foreign Studies,South Korea,https://international.hufs.ac.kr/international/index.do,ok,200,hufs.ac.kr,☰ 국제입학관리팀 ☰,"page names: foreign, hankuk, hufs, korea"
+10429,INTI International University,Malaysia,https://newinti.edu.my/,ok,200,newinti.edu.my,INTI International University &amp; Colleges &#8211; Your Future Built Today,"page names: international, inti"
+10387,IPB University (aka Bogor Agricultural University),Indonesia,https://www.ipb.ac.id/en/,ok,200,ipb.ac.id,IPB University - Indonesia&#039;s #1 Agriculture University,"page names: agricultural, ipb"
+10315,Indian Institute of Science (IISc) Bangalore,India,https://www.iisc.ac.in/,ok,200,iisc.ac.in,Indian Institute of Science,"page names: iisc, indian"
+10448,Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi),India,https://iitbhu.ac.in/,ok,200,iitbhu.ac.in,| Indian Institute of Technology (BHU) Varanasi,"page names: bhu, iit, indian, varanasi"
+10241,Institut Polytechnique de Paris,France,https://www.ip-paris.fr/,ok,200,ip-paris.fr,Institut Polytechnique de Paris,"page names: institut, paris, polytechnique"
+10472,International Islamic University Malaysia (IIUM),Malaysia,https://www.iium.edu.my/,ok,200,iium.edu.my,International Islamic University Malaysia &#8211; Garden of Knowledge and Virtue,"page names: iium, international, islamic, malaysia"
+10345,Jagiellonian University,Poland,https://en.uj.edu.pl/,ok,200,uj.edu.pl,Jagiellonian University - Uniwersytet Jagiello&#324;ski,page names: jagiellonian
+10539,"Jamia Millia Islamia, New Delhi",India,https://jmi.ac.in/,ok,200,jmi.ac.in,Official Website of Jamia Millia Islamia - Jamia Millia Islamia,"page names: islamia, jamia, millia"
+10512,Jeonbuk National University (formerly known as Chonbuk National University),South Korea,https://www.jbnu.ac.kr/en/index.do,ok,200,jbnu.ac.kr,Jeonbuk National University,"page names: jeonbuk, known"
+10395,Julius-Maximilians-Universität Würzburg,Germany,https://www.uni-wuerzburg.de/en/,ok,200,uni-wuerzburg.de,University of Würzburg -,page names: wurzburg
+10541,Kaohsiung Medical University,Taiwan,https://www.kmu.edu.tw/index.php/en-gb/,ok,200,kmu.edu.tw,Kaohsiung Medical University | 高雄醫學大學 - Home,"page names: kaohsiung, medical"
+10496,Karl-Franzens-Universität Graz,Austria,https://www.uni-graz.at/en/,ok,200,uni-graz.at,University of Graz,page names: graz
+10263,Karlsruhe Institute of Technology (KIT),Germany,https://www.kit.edu/english/,ok,200,kit.edu,KIT - Karlsruhe Institute of Technology,"page names: karlsruhe, kit"
+10479,Kazakh National Pedagogical University Abai,Kazakhstan,https://abai.university/en,ok,200,abai.university,Abai Kazakh National pedagogical university | Abai University,"page names: abai, kazakh, pedagogical"
+9923,Keio University,Japan,https://www.keio.ac.jp/en/,ok,200,keio.ac.jp,Keio University,page names: keio
+10295,Khalifa University of Science and Technology,United Arab Emirates,https://www.ku.ac.ae/,ok,200,ku.ac.ae,"Top Ranked, Research-Intensive University in UAE - Khalifa University",page names: khalifa
+10540,Khoja Akhmet Yassawi International Kazakh-Turkish University,Kazakhstan,https://ayu.edu.kz/en/,ok,200,ayu.edu.kz,Ahmet Yasawi University | AYU,"page names: akhmet, international, yassawi"
+10291,King Abdul Aziz University (KAU),Saudi Arabia,https://kau.edu.sa/en,ok,200,kau.edu.sa,Home,"page names: kau, king"
+10252,King Fahd University of Petroleum & Minerals,Saudi Arabia,https://www.kfupm.edu.sa/,ok,200,kfupm.edu.sa,KFUPM,page names: petroleum
+10436,King Khalid University,Saudi Arabia,https://www.kku.edu.sa/en,ok,200,kku.edu.sa,King Khalid University,"page names: khalid, king"
+10238,King's College London (KCL),United Kingdom,https://www.kcl.ac.uk/study/international,ok,200,kcl.ac.uk,International | King&#x27;s College London,"page names: king, london"
+10350,Koc University,Türkiye,https://www.ku.edu.tr/en/,ok,200,ku.edu.tr,Koç University,page names: koc
+5670,Kyungpook National University,South Korea,https://en.knu.ac.kr/main/main.htm,ok,200,knu.ac.kr,Kyungpook National University,page names: kyungpook
+10385,Lappeenranta-Lahti University of Technology LUT,Finland,https://www.lut.fi/en,ok,200,lut.fi,LUT University | LUT University,page names: lut
+10403,Leibniz Universität Hannover,Germany,https://www.uni-hannover.de/en/,ok,200,uni-hannover.de,Homepage&nbsp;&ndash;&nbsp;Leibniz University Hannover,"page names: hannover, leibniz"
+10483,Libera Universita' di Bolzano,Italy,https://www.unibz.it/,ok,200,unibz.it,Free University of Bozen-Bolzano,page names: bolzano
+10481,"Lincoln University College, Malaysia",Malaysia,https://www.lincoln.edu.my/,ok,200,lincoln.edu.my,Top Private University Degree College In Malaysia &#8211; Study In Malaysia For International Students,"page names: lincoln, malaysia"
+10513,"Lingnan University, Hong Kong",Hong Kong,https://www.ln.edu.hk/,ok,200,ln.edu.hk,Lingnan University – A research-focused liberal arts university in Hong Kong,"page names: hong, kong, lingnan"
+10247,London School of Economics and Political Science (LSE),United Kingdom,https://www.lse.ac.uk/,ok,200,lse.ac.uk,The London School of Economics and Political Science - LSE,"page names: economics, london, lse, political"
+10463,Management and Science University - MSU Malaysia,Malaysia,https://www.msu.edu.my/,ok,200,msu.edu.my,MSU Malaysia | Top 88 in the world | 100% Employability,"page names: malaysia, management, msu"
+10566,Middlesex University,United Kingdom,https://www.mdx.ac.uk/,ok,200,mdx.ac.uk,Home | Your North London University | Middlesex University,page names: middlesex
+2522,Nankai University,China,https://en.nankai.edu.cn/,ok,200,nankai.edu.cn,Nankai University,page names: nankai
+10230,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,https://www.ntu.edu.sg/,ok,200,ntu.edu.sg,Nanyang Technological University - NTU Singapore,"page names: nanyang, ntu, singapore, technological"
+10308,National Cheng Kung University (NCKU),Taiwan,https://web.ncku.edu.tw/index.php?Lang=en,ok,200,ncku.edu.tw,"NCKU, National Cheng Kung University - NCKU, 國立成功大學 National Cheng Kung University","page names: cheng, kung, ncku"
+10480,National Chung Hsing University,Taiwan,https://www.nchu.edu.tw/en-index,ok,200,nchu.edu.tw,國立中興大學 - 國立中興大學(National Chung Hsing University),"page names: chung, hsing"
+10527,National Institute of Technology Tiruchirappalli,India,https://www.nitt.edu/home/,ok,200,nitt.edu,NIT Trichy,page names: tiruchirappalli
+10461,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,https://eng.mephi.ru/,ok,200,mephi.ru,Welcome to National Research Nuclear University MEPhI | National Research Nuclear University MEPhI,"page names: engineering, mephi, moscow, nuclear"
+10405,"National Research University Higher School of Economics (HSE, Moscow)",Russia,https://www.hse.ru/en/,ok,200,hse.ru,HSE University,"page names: hse, moscow, research"
+10249,National Taiwan University (NTU),Taiwan,https://www.ntu.edu.tw/english/,ok,200,ntu.edu.tw,National Taiwan University,"page names: ntu, taiwan"
+10357,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,https://www.ntust.edu.tw/?Lang=en,ok,200,ntust.edu.tw,National Taiwan University of Science and Technology - National Taiwan University of Science and Technology,"page names: taiwan, tech"
+10294,National Tsing Hua University,Taiwan,https://nthu-en.site.nthu.edu.tw/,ok,200,nthu.edu.tw,National Tsing Hua University,"page names: hua, tsing"
+10522,National University of Science and Technology MISiS,Russia,https://en.misis.ru/,ok,200,misis.ru,Study in Russia at National University of Science and Technology MISIS,page names: misis
+10382,National and Kapodistrian University of Athens,Greece,https://en.uoa.gr/,ok,200,uoa.gr,ENGLISH | National and Kapodistrian University of Athens,"page names: athens, kapodistrian"
+10441,Northumbria University at Newcastle,United Kingdom,https://www.northumbria.ac.uk/,ok,200,northumbria.ac.uk,Northumbria University | Uni Courses | Study in the Best Student City,"page names: newcastle, northumbria"
+10568,Northwest Agriculture and Forestry University,China,https://en.nwsuaf.edu.cn/,ok,200,nwsuaf.edu.cn,Welcome to Northwest A&F University Home,"page names: agriculture, northwest"
+10425,Northwestern Polytechnical University,China,https://en.nwpu.edu.cn/,ok,200,nwpu.edu.cn,Northwestern Polytechnical University,"page names: northwestern, polytechnical"
+10237,PSL University,France,https://psl.eu/en,ok,200,psl.eu,PSL University | PSL,page names: psl
+10497,Palacký University in Olomouc,Czechia,https://www.upol.cz/en/,ok,200,upol.cz,Palacký University Olomouc,"page names: olomouc, palacky"
+10487,Paris Lodron University of Salzburg,Austria,https://www.plus.ac.at/?lang=en,ok,200,plus.ac.at,Home - Paris Lodron University of Salzburg,"page names: lodron, paris, salzburg"
+10468,Peter the Great St.Petersburg Polytechnic University,Russia,https://english.spbstu.ru/,ok,200,spbstu.ru,Peter the Great St.Petersburg Polytechnic University,"page names: great, peter, petersburg, polytechnic"
+10544,Philipps-Universität Marburg,Germany,https://www.uni-marburg.de/en,ok,200,uni-marburg.de,Marburg University - Philipps-Universität Marburg,"page names: marburg, philipps"
+10570,Politecnico di Bari,Italy,https://www.poliba.it/en/,ok,200,poliba.it,Homepage | Politecnico di Bari | we made wings,"page names: bari, politecnico"
+10264,Politecnico di Milano,Italy,https://www.polimi.it/,ok,200,polimi.it,Politecnico di Milano - polimi,"page names: milano, politecnico"
+10325,Politecnico di Torino,Italy,https://www.polito.it/,ok,200,polito.it,Politecnico di Torino,"page names: politecnico, torino"
+10432,Pontificia Universidad Católica Argentina Santa María de los Buenos Aires - UCA,Argentina,https://uca.edu.ar/,ok,200,uca.edu.ar,UCA - Universidad Católica Argentina,"page names: argentina, catolica, uca"
+10557,Pontificia Universidad Católica de Valparaíso,Chile,https://www.pucv.cl/,ok,200,pucv.cl,Pontificia Universidad Católica de Valparaíso | Pontificia Universidad Católica de Valparaíso,"page names: catolica, pontificia, valparaiso"
+10523,Prince Sattam Bin Abdulaziz University,Saudi Arabia,https://www.psau.edu.sa/en,ok,200,psau.edu.sa,Prince Sattam University | Leading Higher Education and Research in Saudi Arabia,"page names: prince, sattam"
+10528,Princess Nourah bint Abdulrahman University,Saudi Arabia,https://pnu.edu.sa/en/pages/home.aspx,ok,200,pnu.edu.sa,Home Page,"page names: nourah, princess"
+10302,"Queen's University, Ontario",Canada,https://www.queensu.ca/,ok,200,queensu.ca,Queen’s University Canada,"page names: ontario, queen"
+10276,RMIT University,Australia,https://www.rmit.edu.au/,ok,200,rmit.edu.au,"RMIT University: A world leader in technology, design &amp; enterprise",page names: rmit
+10337,Radboud University Nijmegen,Netherlands,https://www.ru.nl/en,ok,200,ru.nl,Radboud University,"page names: nijmegen, radboud"
+10546,Rutgers University - Newark,United States,https://www.newark.rutgers.edu/,ok,200,rutgers.edu,Rutgers Newark | Rutgers University-Newark,"page names: newark, rutgers"
+10430,SOAS University of London,United Kingdom,https://www.soas.ac.uk/,ok,200,soas.ac.uk,Welcome to SOAS | SOAS,"page names: london, soas"
+10475,Saint Joseph University of Beirut (USJ),Lebanon,https://usj.edu.lb/en,ok,200,usj.edu.lb,Saint Joseph University - Beirut | Université Saint-Joseph de Beyrouth,"page names: beirut, joseph, saint, usj"
+10372,Saint Petersburg State University,Russia,https://english.spbu.ru/,ok,200,spbu.ru,St. Petersburg State University,page names: petersburg
+10278,Sapienza University of Rome,Italy,https://www.uniroma1.it/en/,ok,200,uniroma1.it,Home | Sapienza Università di Roma,"page names: rome, sapienza"
+10352,Satbayev University (previously Kazakh Technical University named after K.I. Satpaev),Kazakhstan,https://satbayev.university/en,ok,200,satbayev.university,Kazakh National Research Technical University — Satbayev University,"page names: after, kazakh, named, satbayev"
+10450,Savitribai Phule Pune University,India,https://www.unipune.ac.in/,ok,200,unipune.ac.in,"Savitribai Phule Pune University, One of the Premier Universities in India - Official Website.","page names: phule, pune, savitribai"
+10426,Shoolini University of Biotechnology and Management Sciences,India,https://shooliniuniversity.com/,ok,200,shooliniuniversity.com,Shoolini University - Top Private University in India,"page names: biotechnology, management, shoolini"
+10255,Sorbonne University (merged from Paris IV & UPMC),France,https://www.sorbonne-universite.fr/en,ok,200,sorbonne-universite.fr,Sorbonne Université| Sorbonne université,"page names: from, paris, sorbonne"
+10383,"Southeast University, China",China,https://www.seu.edu.cn/english/,ok,200,seu.edu.cn,English,"page names: china, southeast"
+10356,Southern University of Science and Technology (SUSTech),China,https://www.sustech.edu.cn/en/,ok,200,sustech.edu.cn,SUSTech,"page names: southern, sustech"
+10409,Stony Brook University,United States,https://www.stonybrook.edu/,ok,200,stonybrook.edu,"Stony Brook University | State University of New York | Stony Brook, NY","page names: brook, stony"
+10464,Taipei Medical University,Taiwan,https://eng.tmu.edu.tw/,ok,200,tmu.edu.tw,Taipei Medical University,"page names: medical, taipei"
+10414,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU),Uzbekistan,https://tiiame.uz/,ok,200,tiiame.uz,TIQXMMI,page names: tiiame
+10518,Technische Universität Braunschweig,Germany,https://www.tu-braunschweig.de/,ok,200,tu-braunschweig.de,Technische Universität Braunschweig,"page names: braunschweig, technische"
+10571,"The New School, New York City and Paris",United States,https://www.newschool.edu/,ok,200,newschool.edu,The New School,"page names: city, new, paris, york"
+10501,Ton Duc Thang University,Vietnam,https://tdtu.edu.vn/en,ok,200,tdtu.edu.vn,Home | Ton Duc Thang University,"page names: duc, thang, ton"
+10257,"Trinity College Dublin, The University of Dublin",Ireland,https://www.tcd.ie/,ok,200,tcd.ie,Trinity College Dublin,"page names: dublin, trinity"
+10524,UWE Bristol (University of the West of England),United Kingdom,https://www.uwe.ac.uk/,ok,200,uwe.ac.uk,University of the West of England Bristol,"page names: bristol, england, uwe, west"
+10433,Universidad Austral - Argentina,Argentina,https://www.austral.edu.ar/,ok,200,austral.edu.ar,Universidad Austral &#8211; Argentina,"page names: argentina, austral"
+10530,Universidad Central de Venezuela - UCV,Venezuela (Bolivarian Republic of),http://www.ucv.ve/,ok,403,ucv.ve,Internet Security by Zscaler,"page names: ucv, venezuela"
+10311,Universidad de Los Andes Colombia,Colombia,https://www.uniandes.edu.co/,ok,200,uniandes.edu.co,Universidad de los Andes – Colombia – Sitio oficial,"page names: andes, colombia, los"
+10418,Universidad de Santiago de Chile - USACH,Chile,https://www.usach.cl/,ok,200,usach.cl,| Universidad de Santiago de Chile,"page names: chile, santiago, usach"
+10551,"Universidade Católica Portuguesa, UCP",Portugal,https://www.ucp.pt/pt-pt/homepage,ok,200,ucp.pt,Homepage | Católica,"page names: catolica, ucp"
+10407,"Universidade Estadual Paulista ""Júlio de Mesquita Filho"" (UNESP)",Brazil,https://repositorio.unesp.br/home,ok,200,unesp.br,Repositório Institucional UNESP :: Início,"page names: estadual, filho, julio, mesquita"
+10368,Universiti Brunei Darussalam (UBD),Brunei Darussalam,https://ubd.edu.bn/,ok,200,ubd.edu.bn,Home - Universiti Brunei Darussalam,"page names: brunei, darussalam, ubd, universiti"
+10469,Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),Malaysia,https://www.umpsa.edu.my/en,ok,200,umpsa.edu.my,UMPSA Frontpage | Official Portal - UMPSA Universiti Malaysia Pahang Al-Sultan Abdullah (Malaysia University) ,"page names: abdullah, malaysia, pahang, sultan"
+10455,Universiti Teknologi Brunei,Brunei Darussalam,https://www.utb.edu.bn/,ok,200,utb.edu.bn,Universiti Teknologi Brunei,"page names: brunei, teknologi, universiti"
+10438,Universiti Teknologi MARA - UiTM,Malaysia,https://www.uitm.edu.my/en/,ok,200,uitm.edu.my,Universiti Teknologi MARA,"page names: mara, teknologi, uitm, universiti"
+10328,Universiti Teknologi Petronas (UTP),Malaysia,https://www.utp.edu.my/Pages/Home.aspx,ok,200,utp.edu.my,Universiti Teknologi PETRONAS,"page names: petronas, teknologi, universiti, utp"
+10393,University at Buffalo SUNY,United States,https://www.buffalo.edu/,ok,200,buffalo.edu,Welcome to the University at Buffalo - University at Buffalo,"page names: buffalo, suny"
+10338,University of Antwerp,Belgium,https://www.uantwerpen.be/en/,ok,200,uantwerpen.be,UAntwerp | University of Antwerp,page names: antwerp
+10482,"University of Chemistry and Technology, Prague",Czechia,https://www.vscht.cz/?jazyk=en,ok,200,vscht.cz,"Homepage - University of Chemistry and Technology, Prague","page names: chemistry, prague"
+10364,University of Chinese Academy of Sciences (UCAS),China,https://english.ucas.ac.cn/,ok,200,ac.cn,Home - University of Chinese Academy of Sciences,"page names: academy, chinese, ucas"
+10466,University of Eastern Finland,Finland,https://www.uef.fi/en,ok,200,uef.fi,University of Eastern Finland - www.uef.fi,"page names: eastern, finland"
+10339,University of Galway / Ollscoil na Gaillimhe,Ireland,https://www.universityofgalway.ie/,ok,200,universityofgalway.ie,University of Galway - University of Galway,"page names: gaillimhe, galway, ollscoil"
+10307,University of Gothenburg,Sweden,https://www.gu.se/en,ok,200,gu.se,Home | University of Gothenburg,page names: gothenburg
+10386,University of Kent,United Kingdom,https://www.kent.ac.uk/,ok,200,kent.ac.uk,Your Kent Start - University of Kent,page names: kent
+10451,University of Minho,Portugal,https://www.uminho.pt/EN,ok,200,uminho.pt,University of Minho,page names: minho
+10511,"University of Missouri, Columbia",United States,https://missouri.edu/,ok,200,missouri.edu,Homepage | Mizzou,"page names: columbia, missouri"
+10552,University of Mons,Belgium,https://web.umons.ac.be/en/,ok,200,umons.ac.be,Home - Université de Mons,page names: mons
+10360,University of Münster,Germany,https://www.uni-muenster.de/en/,ok,200,uni-muenster.de,University of Münster,page names: munster
+10322,University of Padova,Italy,https://www.unipd.it/en,ok,200,unipd.it,home | Università di Padova,page names: padova
+10324,University of Porto,Portugal,https://www.up.pt/portal/en/,ok,200,up.pt,University of Porto,page names: porto
+10346,University of Southern Denmark,Denmark,https://www.sdu.dk/en/,ok,200,sdu.dk,"University of Southern Denmark, SDU","page names: denmark, southern"
+10485,"University of Tromso, The Arctic University of Norway",Norway,https://en.uit.no/startsida,ok,200,uit.no,UiT The Arctic University of Norway | UiT,"page names: arctic, norway"
+10411,Università Vita-Salute San Raffaele,Italy,https://www.unisr.it/en/homepage,ok,200,unisr.it,UniSR Università Vita-Salute San Raffaele - Milano Università Vita-Salute San Raffaele,"page names: raffaele, salute, san, vita"
+10362,Università degli Studi di Roma - Tor Vergata,Italy,https://web.uniroma2.it/,ok,200,uniroma2.it,,"page names: degli, roma, studi, tor"
+10320,Universität Erlangen-Nürnberg,Germany,https://www.fau.eu/,ok,200,fau.eu,Moving knowledge | FAU Erlangen-Nürnberg,"page names: erlangen, nurnberg"
+10306,Universität Freiburg,Germany,https://uni-freiburg.de/en/,ok,200,uni-freiburg.de,University of Freiburg,page names: freiburg
+10335,Universität zu Köln,Germany,https://uni-koeln.de/en/,ok,200,uni-koeln.de,Universität zu Köln: University of Cologne,page names: koln
+10303,Université Catholique de Louvain (UCL),Belgium,https://uclouvain.be/en,ok,200,uclouvain.be,Université catholique de Louvain | Université catholique de Louvain,"page names: catholique, louvain"
+10458,Université Claude Bernard Lyon 1,France,https://www.univ-lyon1.fr/en,ok,200,univ-lyon1.fr,Home - Lyon 1 Université Claude Bernard,"page names: bernard, claude, lyon"
+10503,Université Côte dAzur,France,https://univ-cotedazur.eu/,ok,200,univ-cotedazur.eu,Université Côte d'Azur,"page names: azur, cote"
+10331,Université Paris 1 Panthéon-Sorbonne,France,https://www.pantheonsorbonne.fr/,ok,200,pantheonsorbonne.fr,Bienvenue | Université Paris 1 Panthéon-Sorbonne,"page names: pantheon, paris, sorbonne"
+10343,Université Paris Cité,France,https://u-paris.fr/language/en/,ok,200,u-paris.fr,Université Paris Cité | Welcome to Université Paris Cité,"page names: cite, paris"
+10459,Université Paul Sabatier Toulouse III,France,https://www.utoulouse.fr/en,ok,200,utoulouse.fr,Home UT3 - Université de Toulouse,page names: toulouse
+10421,Université de Bordeaux,France,https://www.u-bordeaux.fr/en,ok,200,u-bordeaux.fr,Home - University of Bordeaux,page names: bordeaux
+10490,Université de Lille,France,https://www.univ-lille.fr/en/,ok,200,univ-lille.fr,Reception - University of Lille,page names: lille
+10520,Université de Rennes 1,France,https://www.univ-rennes.fr/en/welcome-university-rennes,ok,200,univ-rennes.fr,Welcome to the University of Rennes | www.univ-rennes.fr,page names: rennes
+10553,V.N. Karazin Kharkiv National University,Ukraine,https://karazin.ua/en/,ok,200,karazin.ua,V. N. Karazin Kharkiv&nbsp;National&nbsp;University | Karazin University,"page names: karazin, kharkiv"
+10504,"Vellore Institute of Technology (VIT), Vellore, India",India,https://vit.ac.in/,ok,200,vit.ac.in,Top Engineering Institution in India | India&#039;s Leading University,"page names: india, vellore, vit"
+10363,Virginia Polytechnic Institute (Virginia Tech),United States,https://www.vt.edu/index.html,ok,200,vt.edu,Home | Virginia Tech,"page names: polytechnic, tech, virginia"
+10289,Wageningen University & Research,Netherlands,https://www.wur.nl/en,ok,200,wur.nl,Wageningen University &amp; Research | WUR,"page names: research, wageningen"
+5408,Waseda University,Japan,https://www.waseda.jp/top/en/,ok,200,waseda.jp,Waseda University,page names: waseda
+10292,Washington University in St. Louis,United States,https://washu.edu/,ok,200,washu.edu,Home | WashU,"page names: louis, washington"
